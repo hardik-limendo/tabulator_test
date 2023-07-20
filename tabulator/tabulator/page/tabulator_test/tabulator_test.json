@@ -1,0 +1,19 @@
+{
+ "content": null,
+ "creation": "2023-07-04 14:42:08.590081",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2023-07-04 14:53:58.515289",
+ "modified_by": "Administrator",
+ "module": "Tabulator",
+ "name": "tabulator-test",
+ "owner": "Administrator",
+ "page_name": "tabulator-test",
+ "roles": [],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Tabulator Test"
+}
